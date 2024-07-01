@@ -1,1 +1,1 @@
-Text to
+Text to Image generation using LLM
